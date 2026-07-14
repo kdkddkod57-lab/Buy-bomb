@@ -10,7 +10,7 @@ local Config = {
     -- รายชื่อระเบิดที่เปิดให้บอทเฝ้ารอซื้อ (เปิดเฉพาะชิ้นที่ต้องการได้)
     Targets = {
         ["ClassicBomb"] = true,
-        ["WinBomb"] = true,
+        ["WindBomb"] = true,
         ["IceBomb"] = true,
         ["FireBomb"] = true,
         ["ThunderBomb"] = true,
