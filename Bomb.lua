@@ -10,7 +10,7 @@ local Config = {
     
     Targets = {
         ["ClassicBomb"] = true,
-        ["WinBomb"] = true,
+        ["WindBomb"] = true,
         ["IceBomb"] = true,
         ["FireBomb"] = true,
         ["ThunderBomb"] = true,
